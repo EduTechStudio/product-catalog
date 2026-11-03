@@ -1,75 +1,114 @@
 # EduTech Studio — Product Catalog
 
-Explore digital products and software solutions developed by EduTech Studio.
+**Discover practical digital solutions built by EduTech Studio.**
 
-Our catalog provides product information, features, specifications,
-development status, and available distribution options.
+Welcome to the official product catalog of EduTech Studio. Explore our digital products, learn about their capabilities, and find solutions that fit your needs.
+
+🌐 Website: https://edutechstudio.my.id  
+📧 Email: studioedutech@gmail.com  
+📷 Instagram: [@edutech.studio](https://www.instagram.com/edutech.studio/)
 
 ---
 
 ## Our Products
 
-### 1. Store POS Mobile
+### 01. Store POS Mobile
 
-**Category:** Point of Sale / Business Management  
-**Platform:** Android  
-**Technology:** Expo, React Native, TypeScript  
-**Status:** In Development
+**Offline Point of Sale & Business Management**
 
-An offline-first mobile point-of-sale application designed
-for small retail businesses, minimarkets, cafes, and restaurants.
+| Specification | Details |
+|---|---|
+| Category | Point of Sale |
+| Platform | Android |
+| Technology | Expo, React Native, TypeScript |
+| Database | SQLite (planned) |
+| Status | In Development |
 
-**Planned features:**
+A mobile POS application designed to help small businesses manage sales transactions and daily store operations.
+
+**Key Features**
 - Product and category management
 - Sales transactions
 - Cash payment and change calculation
 - Transaction history
-- Reports
+- Sales reports
 - Receipt generation
-- Barcode scanner integration
-- Thermal printer integration
+- Barcode scanner integration (planned)
+- Thermal printer integration (planned)
 
 **Distribution:** Application Package / Source Code
 
 ---
 
-### 2. Kirana Studio
+### 02. Kirana Studio
 
-**Category:** Finance & Invoicing  
-**Platform:** Web Application  
-**Technology:** Next.js, Prisma, PostgreSQL  
-**Status:** Prototype
+**Finance & Invoicing Management**
 
-A finance and invoicing application concept for managing
-business financial activities.
+| Specification | Details |
+|---|---|
+| Category | Finance & Business |
+| Platform | Web Application |
+| Technology | Next.js, Prisma |
+| Database | PostgreSQL |
+| Status | Prototype |
 
-**Distribution:** To Be Announced
+A web application concept for managing business finances and invoicing activities.
 
----
-
-### 3. Stockly
-
-**Category:** Inventory Management  
-**Platform:** Web Application  
-**Technology:** Next.js, Prisma, PostgreSQL  
-**Status:** Prototype
-
-An inventory management application concept for organizing
-products, stock movements, and inventory history.
+**Key Focus**
+- Financial record management
+- Invoice management
+- Transaction organization
+- Business finance overview
 
 **Distribution:** To Be Announced
 
 ---
 
-### 4. Store Admin
+### 03. Stockly
 
-**Category:** Desktop Business Application  
-**Platform:** Windows / macOS  
-**Technology:** React, Vite, Electron, SQLite  
-**Status:** In Development
+**Inventory & Stock Management**
 
-An offline desktop application concept for store administration,
-with local data storage and reporting capabilities.
+| Specification | Details |
+|---|---|
+| Category | Inventory Management |
+| Platform | Web Application |
+| Technology | Next.js, Prisma |
+| Database | PostgreSQL |
+| Status | Prototype |
+
+An inventory management application concept for organizing products and monitoring stock movements.
+
+**Key Features**
+- Product management
+- Category management
+- Stock in and stock out
+- Stock movement history
+- Stock availability monitoring
+
+**Distribution:** To Be Announced
+
+---
+
+### 04. Store Admin
+
+**Offline Desktop Store Management**
+
+| Specification | Details |
+|---|---|
+| Category | Desktop Business Application |
+| Platform | Windows / macOS |
+| Technology | React, Vite, Electron |
+| Database | SQLite |
+| Status | In Development |
+
+An offline desktop application concept for managing store operations with locally stored data.
+
+**Key Focus**
+- Store administration
+- Local database management
+- Data import and export
+- Excel and PDF reporting
+- Cross-platform desktop support
 
 **Distribution:** Application Package / Source Code
 
@@ -77,25 +116,35 @@ with local data storage and reporting capabilities.
 
 ## Distribution Options
 
-Depending on the product, customers may choose:
+Our products may offer one or both of the following packages:
 
-| Package | Description |
-|---|---|
-| Application Package | Ready-to-use application or installer |
-| Source Code Package | Source code delivered under an agreed license |
+### Application Package
+Ready-to-use application files or installers for supported platforms.
 
-Product availability, pricing, system requirements, and delivery
-conditions will be listed on each product's detail page.
+### Source Code Package
+Source code provided privately under an agreed license and usage terms.
 
-## Interested in a Product?
-
-Visit our website to learn more about EduTech Studio
-and discuss product availability.
-
-**Website:** https://edutechstudio.my.id  
-**Email:** studioedutech@gmail.com  
-**Instagram:** @edutech.studio
+Availability, pricing, system requirements, and delivery methods depend on each product.
 
 ---
 
+## Interested in Our Products?
+
+Have questions, need a product demonstration, or want to discuss a custom solution?
+
+Contact EduTech Studio:
+
+- Website: https://edutechstudio.my.id
+- Email: studioedutech@gmail.com
+- Instagram: @edutech.studio
+
+---
+
+<div align="center">
+
+**EduTech Studio**  
+Digital Product Studio
+
 © EduTech Studio. All rights reserved.
+
+</div>
